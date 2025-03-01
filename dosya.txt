@@ -1,2 +1,2 @@
-vless://7f2214a6-d722-4d6f-845e-986033fc25a2@128.199.51.98:443?path=%2F&security=tls&fragment=1%2C1%2Ctlshello&alpn=http%2F1.1&encryption=none&host=mux.nagazi98.ru&fp=chrome&type=ws&sni=mux.nagazi98.ru#%F0%9F%9A%80%20Marz%20%28Gulmir%29%20%5BVLESS%20-%20ws%5D
+vless://7f2214a6-d722-4d6f-845e-986033fc25a2@104.18.37.111:443?path=%2F&security=tls&fragment=1%2C1%2Ctlshello&alpn=http%2F1.1&encryption=none&host=mux.nagazi98.ru&fp=chrome&type=ws&sni=mux.nagazi98.ru#%F0%9F%9A%80%20Marz%20%28Gulmir%29%20%5BVLESS%20-%20ws%5D
 vless://163c40e4-1f00-4fcd-b6ea-a797b1053f53@141.227.160.42:443?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%9A%80%20Marz%20%28Gulmir%29%20%5BVLESS%20-%20ws%5D
